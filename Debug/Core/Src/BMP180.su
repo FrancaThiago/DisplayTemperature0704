@@ -1,0 +1,6 @@
+../Core/Src/BMP180.c:39:19:WriteI2C	40	static
+../Core/Src/BMP180.c:44:19:ReadI2C	40	static
+../Core/Src/BMP180.c:49:19:InitSensorTemperatureReading	24	static
+../Core/Src/BMP180.c:81:10:ReadUncTemperature	32	static
+../Core/Src/BMP180.c:97:7:ReadTemperature	16	static
+../Core/Src/BMP180.c:109:6:read_calliberation_data	4	static
